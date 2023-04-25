@@ -1,5 +1,6 @@
 # CCPCA
-This repository contains the codes needed for results replication of: Comparison of Penalized and Constrained Sparse PCA.
+This repository contains the codes needed for results replication of: Comparison of Penalized and Constrained Sparse PCA (DOI
+https://doi.org/10.1007/s11634-022-00499-2).
 ## Simulation
 The scrips in simulation folder are used to replicate the simulation study (Sect. 3 in the manuscript).
 ### Data Generation
